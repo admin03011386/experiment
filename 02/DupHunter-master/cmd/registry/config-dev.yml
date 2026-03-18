@@ -41,7 +41,8 @@ storage:
         layercachecap: 169 # MB
         slicecachecap: 169 # MB
         type: MB
-        ttl: 40000 # 0.001s    
+        ttl: 40000
+         # 0.001s    
 http:
     addr: :5000
     debug:
