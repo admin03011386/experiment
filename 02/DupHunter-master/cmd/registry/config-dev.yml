@@ -10,11 +10,11 @@ log:
       levels:
         - panic
       options:
-      
         smtp:  
           addr: mail.example.com:25
           username: mailuser
           password: password
+          
           insecure: true
         from: sender@example.com
         to:
