@@ -1,0 +1,17 @@
+测试时间: 2026年 02月 25日 星期三 06:06:34 CST
+镜像: nginx:1.26, nginx:1.27, nginx:latest
+
+推送总耗时: 10104ms
+拉取总耗时: 12102ms
+总存储空间: 203M
+blobs目录: 198M
+fileblobs目录: 4.8M
+
+Statistics
+Successful Requests: 42
+Failed Requests: 0
+Duration: 11.830071210861206
+Data Transfered: 414910894 bytes
+Average Latency: 1.3382207098461332
+% requests on time: 0.0
+Throughput: 3.55027448705801 requests/second

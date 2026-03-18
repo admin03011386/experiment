@@ -1,0 +1,23 @@
+verbose: true
+client_info:
+    client_list:
+    - localhost:8081
+    port: 8080
+    threads: 1
+    wait: false
+trace:
+    location: ./
+    traces:
+        - test_data_nginx.json
+    limit: 
+        type: requests
+        amount: 5000
+    output: result_nginx.json
+
+registry:
+    - localhost:5009
+
+warmup:
+    output: interm_nginx.json
+    threads: 1
+    random: false

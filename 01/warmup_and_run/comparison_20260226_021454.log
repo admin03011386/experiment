@@ -1,0 +1,34 @@
+==============================================
+  SimEnc vs New 对比测试
+  2026年 02月 26日 星期四 02:16:08 CST
+==============================================
+
+指标                         SimEnc (04)          New File-as-Layer (01)
+------------------------------ -------------------- --------------------
+推送总耗时 (ms)           8669                 11156               
+拉取总耗时 (ms)           6057                 11709               
+总存储空间                199M                 205M                
+  原始blobs目录            199M                 198M                
+  文件blobs目录                                 6.8M                
+推送数据量 (bytes)        207457319            207457319           
+去重率 (x)                  .99                  .97                 
+
+--- SimEnc 拉取统计 ---
+Statistics
+Successful Requests: 12
+Failed Requests: 30
+Duration: 5.853987693786621
+Data Transfered: 72 bytes
+Average Latency: 0.1743239959081014
+% requests on time: 0.0
+Throughput: 2.0498847328867313 requests/second
+
+--- New 拉取统计 ---
+Statistics
+Successful Requests: 42
+Failed Requests: 0
+Duration: 11.49460244178772
+Data Transfered: 414914608 bytes
+Average Latency: 1.3019422406242007
+% requests on time: 0.0
+Throughput: 3.6538888763401087 requests/second

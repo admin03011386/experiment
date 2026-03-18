@@ -1,0 +1,422 @@
+[
+  {
+    "j_http.request.uri": "v2/nginx_1-26/blobs/sha256:8a628cdd7ccc83e90e5a95888fcb0ec24b991141176c515ad101f12d6433eb96",
+    "j_repo": "nginx_1-26",
+    "sha_256": "sha256_8a628cdd7ccc83e90e5a95888fcb0ec24b991141176c515ad101f12d6433eb96",
+    "http.response.written": 28227259,
+    "timestamp": "2026-02-24T10:00:00.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-26/blobs/sha256:7a0654aeb92247fa0d42bcc98980091d9ece13d9337e6d3094f3081d0fcdd262",
+    "j_repo": "nginx_1-26",
+    "sha_256": "sha256_7a0654aeb92247fa0d42bcc98980091d9ece13d9337e6d3094f3081d0fcdd262",
+    "http.response.written": 43916545,
+    "timestamp": "2026-02-24T10:00:01.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-26/blobs/sha256:5e98d206134b8a50bad80e57b4079920076330a1cee9d7d6a8d7794e210715da",
+    "j_repo": "nginx_1-26",
+    "sha_256": "sha256_5e98d206134b8a50bad80e57b4079920076330a1cee9d7d6a8d7794e210715da",
+    "http.response.written": 628,
+    "timestamp": "2026-02-24T10:00:02.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-26/blobs/sha256:6923759e66ab4690c4ad07cb57c5b9b5812369d12dbd843e52d72acfb8b342da",
+    "j_repo": "nginx_1-26",
+    "sha_256": "sha256_6923759e66ab4690c4ad07cb57c5b9b5812369d12dbd843e52d72acfb8b342da",
+    "http.response.written": 956,
+    "timestamp": "2026-02-24T10:00:03.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-26/blobs/sha256:d44088bb6ae866f3d0f958af437e3272b6da958b541f04992dc0199aad0dffc6",
+    "j_repo": "nginx_1-26",
+    "sha_256": "sha256_d44088bb6ae866f3d0f958af437e3272b6da958b541f04992dc0199aad0dffc6",
+    "http.response.written": 404,
+    "timestamp": "2026-02-24T10:00:04.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-26/blobs/sha256:9ebfb40fb06b4c010c9f6eb2cf56f264d0b879f31bb9549cfe9dbcce85da1858",
+    "j_repo": "nginx_1-26",
+    "sha_256": "sha256_9ebfb40fb06b4c010c9f6eb2cf56f264d0b879f31bb9549cfe9dbcce85da1858",
+    "http.response.written": 1209,
+    "timestamp": "2026-02-24T10:00:05.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-26/blobs/sha256:4fd410795c0fbf522259d8b14d150188049061cd03d79c0830f4b2448bc85532",
+    "j_repo": "nginx_1-26",
+    "sha_256": "sha256_4fd410795c0fbf522259d8b14d150188049061cd03d79c0830f4b2448bc85532",
+    "http.response.written": 1399,
+    "timestamp": "2026-02-24T10:00:06.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-27/blobs/sha256:dad67da3f26bce15939543965e09c4059533b025f707aad72ed3d3f3a09c66f8",
+    "j_repo": "nginx_1-27",
+    "sha_256": "sha256_dad67da3f26bce15939543965e09c4059533b025f707aad72ed3d3f3a09c66f8",
+    "http.response.written": 28230129,
+    "timestamp": "2026-02-24T10:00:07.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-27/blobs/sha256:3b00567da96412a0298328fad6b96aadd3bc9ca97e6683534da152b0b9e8a977",
+    "j_repo": "nginx_1-27",
+    "sha_256": "sha256_3b00567da96412a0298328fad6b96aadd3bc9ca97e6683534da152b0b9e8a977",
+    "http.response.written": 44151007,
+    "timestamp": "2026-02-24T10:00:08.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-27/blobs/sha256:56b81cfa547d78176e719c9cd387e35fbd95ce6e8500efb26d9fbcbac4dbc4f6",
+    "j_repo": "nginx_1-27",
+    "sha_256": "sha256_56b81cfa547d78176e719c9cd387e35fbd95ce6e8500efb26d9fbcbac4dbc4f6",
+    "http.response.written": 628,
+    "timestamp": "2026-02-24T10:00:09.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-27/blobs/sha256:1bc5dc8b475d9de62c94cf69a139df17aaf7fe7bac76b5133d8048a058fb3c3b",
+    "j_repo": "nginx_1-27",
+    "sha_256": "sha256_1bc5dc8b475d9de62c94cf69a139df17aaf7fe7bac76b5133d8048a058fb3c3b",
+    "http.response.written": 956,
+    "timestamp": "2026-02-24T10:00:10.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-27/blobs/sha256:979e6233a40af9a51ee2c9894bd42ebf78a79c87cbed70cc6a3840a0952f3d57",
+    "j_repo": "nginx_1-27",
+    "sha_256": "sha256_979e6233a40af9a51ee2c9894bd42ebf78a79c87cbed70cc6a3840a0952f3d57",
+    "http.response.written": 405,
+    "timestamp": "2026-02-24T10:00:11.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-27/blobs/sha256:d2a7ba8dbfee4f222961ad1449648ab46a6cea044e4cfb374450325ecee8f67f",
+    "j_repo": "nginx_1-27",
+    "sha_256": "sha256_d2a7ba8dbfee4f222961ad1449648ab46a6cea044e4cfb374450325ecee8f67f",
+    "http.response.written": 1211,
+    "timestamp": "2026-02-24T10:00:12.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-27/blobs/sha256:32e44235e1d55a34be577baa12271f067c0bf79ba4e1ca4e6ec484424540132a",
+    "j_repo": "nginx_1-27",
+    "sha_256": "sha256_32e44235e1d55a34be577baa12271f067c0bf79ba4e1ca4e6ec484424540132a",
+    "http.response.written": 1399,
+    "timestamp": "2026-02-24T10:00:13.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_latest/blobs/sha256:206356c42440674ecbdf1070cf70ce8ef7885ac2e5c56f1ecf800b758f6b0419",
+    "j_repo": "nginx_latest",
+    "sha_256": "sha256_206356c42440674ecbdf1070cf70ce8ef7885ac2e5c56f1ecf800b758f6b0419",
+    "http.response.written": 29778632,
+    "timestamp": "2026-02-24T10:00:14.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_latest/blobs/sha256:b47f187216b68c3f90b7fb9a947a76d4bd2981a8f469cb6092e7da5d9efea014",
+    "j_repo": "nginx_latest",
+    "sha_256": "sha256_b47f187216b68c3f90b7fb9a947a76d4bd2981a8f469cb6092e7da5d9efea014",
+    "http.response.written": 33139958,
+    "timestamp": "2026-02-24T10:00:15.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_latest/blobs/sha256:1ad233904a1166fd3832d9657b163937f66c906795a517a87b516bc3f2481695",
+    "j_repo": "nginx_latest",
+    "sha_256": "sha256_1ad233904a1166fd3832d9657b163937f66c906795a517a87b516bc3f2481695",
+    "http.response.written": 626,
+    "timestamp": "2026-02-24T10:00:16.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_latest/blobs/sha256:eedda9fd87862df4b2eccd3da9f2e38122124dec2e4217b530bd48d809b3840b",
+    "j_repo": "nginx_latest",
+    "sha_256": "sha256_eedda9fd87862df4b2eccd3da9f2e38122124dec2e4217b530bd48d809b3840b",
+    "http.response.written": 954,
+    "timestamp": "2026-02-24T10:00:17.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_latest/blobs/sha256:35ff83c394d65bf2c49f844ba18fe2e8121fe07e1f3f92325c05246319b98f7e",
+    "j_repo": "nginx_latest",
+    "sha_256": "sha256_35ff83c394d65bf2c49f844ba18fe2e8121fe07e1f3f92325c05246319b98f7e",
+    "http.response.written": 405,
+    "timestamp": "2026-02-24T10:00:18.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_latest/blobs/sha256:17d0911eaf62f5c4c34e54943d30dbb0d86b8ad614c80ef5ee0249ff54a3373e",
+    "j_repo": "nginx_latest",
+    "sha_256": "sha256_17d0911eaf62f5c4c34e54943d30dbb0d86b8ad614c80ef5ee0249ff54a3373e",
+    "http.response.written": 1209,
+    "timestamp": "2026-02-24T10:00:19.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_latest/blobs/sha256:df0b66c867e491634d63f065ef5ea556cba20a97761039f9e9d5af71442f8fbf",
+    "j_repo": "nginx_latest",
+    "sha_256": "sha256_df0b66c867e491634d63f065ef5ea556cba20a97761039f9e9d5af71442f8fbf",
+    "http.response.written": 1400,
+    "timestamp": "2026-02-24T10:00:20.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-26/blobs/sha256:8a628cdd7ccc83e90e5a95888fcb0ec24b991141176c515ad101f12d6433eb96",
+    "j_repo": "nginx_1-26",
+    "sha_256": "sha256_8a628cdd7ccc83e90e5a95888fcb0ec24b991141176c515ad101f12d6433eb96",
+    "http.response.written": 28227259,
+    "timestamp": "2026-02-24T10:00:21.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-26/blobs/sha256:7a0654aeb92247fa0d42bcc98980091d9ece13d9337e6d3094f3081d0fcdd262",
+    "j_repo": "nginx_1-26",
+    "sha_256": "sha256_7a0654aeb92247fa0d42bcc98980091d9ece13d9337e6d3094f3081d0fcdd262",
+    "http.response.written": 43916545,
+    "timestamp": "2026-02-24T10:00:22.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-26/blobs/sha256:5e98d206134b8a50bad80e57b4079920076330a1cee9d7d6a8d7794e210715da",
+    "j_repo": "nginx_1-26",
+    "sha_256": "sha256_5e98d206134b8a50bad80e57b4079920076330a1cee9d7d6a8d7794e210715da",
+    "http.response.written": 628,
+    "timestamp": "2026-02-24T10:00:23.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-26/blobs/sha256:6923759e66ab4690c4ad07cb57c5b9b5812369d12dbd843e52d72acfb8b342da",
+    "j_repo": "nginx_1-26",
+    "sha_256": "sha256_6923759e66ab4690c4ad07cb57c5b9b5812369d12dbd843e52d72acfb8b342da",
+    "http.response.written": 956,
+    "timestamp": "2026-02-24T10:00:24.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-26/blobs/sha256:d44088bb6ae866f3d0f958af437e3272b6da958b541f04992dc0199aad0dffc6",
+    "j_repo": "nginx_1-26",
+    "sha_256": "sha256_d44088bb6ae866f3d0f958af437e3272b6da958b541f04992dc0199aad0dffc6",
+    "http.response.written": 404,
+    "timestamp": "2026-02-24T10:00:25.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-26/blobs/sha256:9ebfb40fb06b4c010c9f6eb2cf56f264d0b879f31bb9549cfe9dbcce85da1858",
+    "j_repo": "nginx_1-26",
+    "sha_256": "sha256_9ebfb40fb06b4c010c9f6eb2cf56f264d0b879f31bb9549cfe9dbcce85da1858",
+    "http.response.written": 1209,
+    "timestamp": "2026-02-24T10:00:26.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-26/blobs/sha256:4fd410795c0fbf522259d8b14d150188049061cd03d79c0830f4b2448bc85532",
+    "j_repo": "nginx_1-26",
+    "sha_256": "sha256_4fd410795c0fbf522259d8b14d150188049061cd03d79c0830f4b2448bc85532",
+    "http.response.written": 1399,
+    "timestamp": "2026-02-24T10:00:27.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-27/blobs/sha256:dad67da3f26bce15939543965e09c4059533b025f707aad72ed3d3f3a09c66f8",
+    "j_repo": "nginx_1-27",
+    "sha_256": "sha256_dad67da3f26bce15939543965e09c4059533b025f707aad72ed3d3f3a09c66f8",
+    "http.response.written": 28230129,
+    "timestamp": "2026-02-24T10:00:28.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-27/blobs/sha256:3b00567da96412a0298328fad6b96aadd3bc9ca97e6683534da152b0b9e8a977",
+    "j_repo": "nginx_1-27",
+    "sha_256": "sha256_3b00567da96412a0298328fad6b96aadd3bc9ca97e6683534da152b0b9e8a977",
+    "http.response.written": 44151007,
+    "timestamp": "2026-02-24T10:00:29.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-27/blobs/sha256:56b81cfa547d78176e719c9cd387e35fbd95ce6e8500efb26d9fbcbac4dbc4f6",
+    "j_repo": "nginx_1-27",
+    "sha_256": "sha256_56b81cfa547d78176e719c9cd387e35fbd95ce6e8500efb26d9fbcbac4dbc4f6",
+    "http.response.written": 628,
+    "timestamp": "2026-02-24T10:00:30.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-27/blobs/sha256:1bc5dc8b475d9de62c94cf69a139df17aaf7fe7bac76b5133d8048a058fb3c3b",
+    "j_repo": "nginx_1-27",
+    "sha_256": "sha256_1bc5dc8b475d9de62c94cf69a139df17aaf7fe7bac76b5133d8048a058fb3c3b",
+    "http.response.written": 956,
+    "timestamp": "2026-02-24T10:00:31.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-27/blobs/sha256:979e6233a40af9a51ee2c9894bd42ebf78a79c87cbed70cc6a3840a0952f3d57",
+    "j_repo": "nginx_1-27",
+    "sha_256": "sha256_979e6233a40af9a51ee2c9894bd42ebf78a79c87cbed70cc6a3840a0952f3d57",
+    "http.response.written": 405,
+    "timestamp": "2026-02-24T10:00:32.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-27/blobs/sha256:d2a7ba8dbfee4f222961ad1449648ab46a6cea044e4cfb374450325ecee8f67f",
+    "j_repo": "nginx_1-27",
+    "sha_256": "sha256_d2a7ba8dbfee4f222961ad1449648ab46a6cea044e4cfb374450325ecee8f67f",
+    "http.response.written": 1211,
+    "timestamp": "2026-02-24T10:00:33.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_1-27/blobs/sha256:32e44235e1d55a34be577baa12271f067c0bf79ba4e1ca4e6ec484424540132a",
+    "j_repo": "nginx_1-27",
+    "sha_256": "sha256_32e44235e1d55a34be577baa12271f067c0bf79ba4e1ca4e6ec484424540132a",
+    "http.response.written": 1399,
+    "timestamp": "2026-02-24T10:00:34.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_latest/blobs/sha256:206356c42440674ecbdf1070cf70ce8ef7885ac2e5c56f1ecf800b758f6b0419",
+    "j_repo": "nginx_latest",
+    "sha_256": "sha256_206356c42440674ecbdf1070cf70ce8ef7885ac2e5c56f1ecf800b758f6b0419",
+    "http.response.written": 29778632,
+    "timestamp": "2026-02-24T10:00:35.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_latest/blobs/sha256:b47f187216b68c3f90b7fb9a947a76d4bd2981a8f469cb6092e7da5d9efea014",
+    "j_repo": "nginx_latest",
+    "sha_256": "sha256_b47f187216b68c3f90b7fb9a947a76d4bd2981a8f469cb6092e7da5d9efea014",
+    "http.response.written": 33139958,
+    "timestamp": "2026-02-24T10:00:36.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_latest/blobs/sha256:1ad233904a1166fd3832d9657b163937f66c906795a517a87b516bc3f2481695",
+    "j_repo": "nginx_latest",
+    "sha_256": "sha256_1ad233904a1166fd3832d9657b163937f66c906795a517a87b516bc3f2481695",
+    "http.response.written": 626,
+    "timestamp": "2026-02-24T10:00:37.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_latest/blobs/sha256:eedda9fd87862df4b2eccd3da9f2e38122124dec2e4217b530bd48d809b3840b",
+    "j_repo": "nginx_latest",
+    "sha_256": "sha256_eedda9fd87862df4b2eccd3da9f2e38122124dec2e4217b530bd48d809b3840b",
+    "http.response.written": 954,
+    "timestamp": "2026-02-24T10:00:38.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_latest/blobs/sha256:35ff83c394d65bf2c49f844ba18fe2e8121fe07e1f3f92325c05246319b98f7e",
+    "j_repo": "nginx_latest",
+    "sha_256": "sha256_35ff83c394d65bf2c49f844ba18fe2e8121fe07e1f3f92325c05246319b98f7e",
+    "http.response.written": 405,
+    "timestamp": "2026-02-24T10:00:39.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_latest/blobs/sha256:17d0911eaf62f5c4c34e54943d30dbb0d86b8ad614c80ef5ee0249ff54a3373e",
+    "j_repo": "nginx_latest",
+    "sha_256": "sha256_17d0911eaf62f5c4c34e54943d30dbb0d86b8ad614c80ef5ee0249ff54a3373e",
+    "http.response.written": 1209,
+    "timestamp": "2026-02-24T10:00:40.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  },
+  {
+    "j_http.request.uri": "v2/nginx_latest/blobs/sha256:df0b66c867e491634d63f065ef5ea556cba20a97761039f9e9d5af71442f8fbf",
+    "j_repo": "nginx_latest",
+    "sha_256": "sha256_df0b66c867e491634d63f065ef5ea556cba20a97761039f9e9d5af71442f8fbf",
+    "http.response.written": 1400,
+    "timestamp": "2026-02-24T10:00:41.000000Z",
+    "http.request.duration": 0.1,
+    "http.request.remoteaddr": "127.0.0.1",
+    "http.request.method": "GET"
+  }
+]

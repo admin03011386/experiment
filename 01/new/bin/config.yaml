@@ -1,0 +1,44 @@
+version: 0.1
+log:
+  fields:
+    service: registry
+storage:
+  cache:
+    blobdescriptor: redis
+    hostip: 127.0.0.1
+  cacheparams:
+    filecachecap: 200       # 文件描述缓存上限 (MB)
+    layercachecap: 200      # Layer 缓存上限 (MB)
+    slicecachecap: 200      # Slice 缓存上限 (MB)
+    type: MB
+    ttl: 40000              # 缓存 TTL (单位 0.001s, 即40s)
+  registryparams:
+    repullcntthres: 3       # 重复 pull 次数阈值，达到后触发构建优化
+    comprlevel: 6           # pgzip 压缩级别 (1-9)
+    layerslicingfcntthres: 5    # layer 切片文件数阈值
+    layerslicingdirsizethres: 5 # layer 切片目录大小阈值 (MB)
+    compressmethod: pgzip     # 压缩方式: lz4 或 pgzip
+  filesystem:
+    rootdirectory: /home/simenc3/docker_v2  # 数据存储根目录，按你的路径改
+http:
+  addr: :5009
+  headers:
+    X-Content-Type-Options: [nosniff]
+redis:
+  addr: 127.0.0.1:6379
+  db: 0
+  pool:
+    maxidle: 16
+    maxactive: 64
+    idletimeout: 300s
+  dialtimeout: 1000ms
+  readtimeout: 1000ms
+  writetimeout: 1000ms
+notifications:
+  registries:
+    - 127.0.0.1
+health:
+  storagedriver:
+    enabled: true
+    interval: 10s
+    threshold: 3
