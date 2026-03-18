@@ -59,7 +59,7 @@ redis:
     idletimeout: 300s
   dialtimeout: 1000ms
   readtimeout: 1000ms
-  writetimeout: 1000ms
+  writetimeout: 1000ms  
 notifications:
     endpoints:
         - name: local-5003
